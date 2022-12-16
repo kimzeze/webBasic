@@ -1,0 +1,41 @@
+div,
+span {
+  font-size: 48px;
+}
+
+.box1 {
+  background-color: gold;
+  width: 350px;
+  padding: 0 25px;
+  border: 10px solid red;
+  margin: 0 50px;
+}
+
+.box2 {
+  background-color: pink;
+}
+.box3 {
+  background-color: lime;
+  width: 350px;
+  padding: 0 25px;
+  border: 10px solid red;
+  margin: 0 50px;
+  box-sizing: border-box;
+}
+.box4 {
+  background-color: aqua;
+}
+
+.box5 {
+  display: inline-block;
+  background-color: orange;
+}
+
+.box6 {
+  display: inline-block;
+  width: 300px;
+  background-color: darkblue;
+  color: #fff;
+}
+/* inline과 block은 둘다 width값이 auto 이지만
+inline은 글자  */
