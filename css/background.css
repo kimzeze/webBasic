@@ -1,0 +1,9 @@
+body {
+  background-color: gold;
+}
+
+.container {
+  width: 1000px;
+  height: 400px;
+  background: pink url("./../images/css.jpg") no-repeat 50% 0 / contain;
+}
